@@ -1,6 +1,6 @@
 # What To Do?
 
-This is a simple CLI app that uses [boredapi](boredapi.com) as a backend to provide activity ideas if you're bored. Written in Crystal as a tiny pet-project just to get to know the language, because it looked interesting to me. It's actually pretty good! The standard library is also very functional and easy to use.
+This is a simple CLI app that uses [boredapi](https://www.boredapi.com/) as a backend to provide activity ideas if you're bored. Written in Crystal as a tiny pet-project just to get to know the language, because it looked interesting to me. It's actually pretty good! The standard library is also very functional and easy to use.
 
 # Dependencies
 
